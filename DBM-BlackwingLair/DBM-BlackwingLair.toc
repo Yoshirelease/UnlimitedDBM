@@ -1,0 +1,21 @@
+## Interface: 30300
+## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0BlackwingLair|r
+## LoadOnDemand: 1
+## RequiredDeps: DBM-Core
+## SavedVariablesPerCharacter: DBMBlackwingLair_SavedVars, DBMBlackwingLair_SavedStats
+## X-DBM-Mod: 1
+## X-DBM-Mod-Category: WotLK
+## X-DBM-Mod-Has-Heroic-Mode: 0
+## X-DBM-Mod-Name: Blackwing-Lair
+
+## X-DBM-Mod-Sort: 4
+--## X-DBM-Mod-LoadZoneID: 530
+## X-DBM-Mod-LoadZone: Blackwing Lair
+
+localization.en.lua
+NexusPrince_Sharfaad.lua
+Mindbender_Rarsha.lua
+Xanirya.lua
+Professor_Palirim.lua
+Specimen42.lua
+Vari.lua
