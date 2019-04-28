@@ -19,7 +19,6 @@ local specwarnSeepingVoid	= mod:NewSpecialWarning("SeepingVoid")
 local warnFelCough			= mod:NewAnnounce("FelCough", 2, 98043)
 local warnFelCoughStacks	= mod:NewAnnounce("FelCoughStacks", 4, 98043)
 local warnHungry			= mod:NewAnnounce("m_WarnHungry", 4, 98038)
-local warnRecoveringCons	= mod:NewAnnounce("RecoveringCons", 2, 98042)
 
 local timerCountDown		= mod:NewTimer(5, "HungryCD")
 local m_countdown				= mod:NewCountdown(5, 98038)
@@ -70,14 +69,6 @@ function mod:SPELL_AURA_APPLIED(args)
 		if self.Options.Announce then
 			if DBM:GetRaidRank() > 0 then
 				SendChatMessage(PreHungry_RW, "RAID_WARNING")
-			end
-		end
-
-	elseif args:IsSpellID(98042) then -- starting to remember who he is
-		warnRecoveringCons:Show()
-		if self.Options.Announce then
-			if DBM:GetRaidRank() > 0 then
-				SendChatMessage(RecoveringCons_RW, "RAID_WARNING")
 			end
 		end
 	end
