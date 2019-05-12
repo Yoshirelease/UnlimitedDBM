@@ -17,6 +17,7 @@ DrinkHealthPotion_RW	= "Professor Palirim is drinking Health Potion, Interrupt h
 Experiment_RW			= "Mindcontrol on" -- results in Mindcontrol on PLAYER
 PreHungry_RW			= "Specimen 42 is getting Hungry"
 Hungry_RW				= "Specimen 42 is going to eat a Dwarf"
+RecoveringCons_RW		= "Starting to remember, Nuke him now!"
 
 -- Va'ri --
 VariAdds_RW				= "Adds appeared!"
@@ -189,13 +190,15 @@ L:SetWarningLocalization{
 	Hungry					= "Speak to a dwarf!",
 	Experiment				= "Experiment",
 	SeepingVoid				= "Move out!",
-	m_WarnHungry			= "Hungry in 5 seconds"
+	m_WarnHungry			= "Hungry in 5 seconds",
+	RecoveringCons			= "Nuke him now!"
 }
 
 L:SetOptionLocalization{
 	FelCough				= "Announce Fel Cough >2 stacks",
 	FelCoughStacks			= "Announce Fel Cough >4 stacks",
 	m_WarnHungry			= "Announce Pre-Hungry",
+	RecoveringCons			= "Announce Recovering Consciousness",
 	Hungry					= "Show Special Warning for Hungry",
 	Experiment				= "Show Special Warning when you are affected by Experiment",
 	SeepingVoid				= "Show Special Warning when you are affected by Seeping Void",
