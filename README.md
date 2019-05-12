@@ -9,7 +9,11 @@ This DBM version is written for Blackwing Lair at heroes-wow, you can download, 
 
 # Core Folder
 
-Delete the core folder and replace it with this version
+Delete the core folder and replace it with this version, the core folder of https://github.com/fenuksrelease/dbm is outdated
+
+# Gui Folder
+
+Delete the GUI folder and replace it with this version
 
 # Blackwing Lair Folder
 
