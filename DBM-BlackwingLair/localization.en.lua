@@ -48,7 +48,7 @@ L:SetMiscLocalization{
 L:SetWarningLocalization{
 	SummonedVoidSpawn		= "Void Spawn appeared!",
 	specVoidZone			= "Move out!",
-	specUmbralRush			= "Umbral Rush on you!",
+	specUmbralRush			= "Stay away from Void Wyrms!",
 	specUnboundEthereal		= "Enrage in 60 seconds!"
 }
 
