@@ -1,0 +1,24 @@
+## Interface: 30300
+## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0BlackTemple|r
+## LoadOnDemand: 1
+## RequiredDeps: DBM-Core
+## SavedVariablesPerCharacter: DBMBlackTemple_SavedVars, DBMBlackTemple_SavedStats
+## X-DBM-Mod: 1
+## X-DBM-Mod-Category: Unlimited
+## X-DBM-Mod-Has-Heroic-Mode: 0
+## X-DBM-Mod-Name: Black-Temple
+
+## X-DBM-Mod-Sort: 4
+--## X-DBM-Mod-LoadZoneID: 530
+## X-DBM-Mod-LoadZone: Black Temple
+
+localization.en.lua
+Najentus.lua
+Supremus.lua
+ShadeOfAkama.lua
+TeronGorefiend.lua
+EssenceOfSouls.lua
+Bloodboil.lua
+Shahraz.lua
+IllidariCouncil.lua
+Illidan.lua
