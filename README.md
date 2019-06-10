@@ -18,3 +18,7 @@ Delete the GUI folder and replace it with this version
 # Blackwing Lair Folder
 
 Place this folder into your addons folder
+
+# Black Temple Folder
+
+Working Black Temple DBM in work
