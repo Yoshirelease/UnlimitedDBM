@@ -5,7 +5,7 @@ Deadly Boss Mods
 This DBM version is written for Blackwing Lair at heroes-wow, you can download, but you do not need the DBM files for retail(blizzlike). It is Important to replace the Core folder and the GUI folder for this Addon. It is updated for the Ulduar aswell which you can find https://github.com/fenuksrelease/dbm.
 
 
-(Offical)Retail-DBM link: https://wow.curseforge.com/projects/deadly-boss-mods/files/447605/download
+(Offical)Retail-DBM link: https://www.curseforge.com/wow/addons/deadly-boss-mods
 
 # Core Folder
 
